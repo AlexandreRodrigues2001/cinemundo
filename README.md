@@ -28,9 +28,9 @@ index.php
  ------------------------------------------------------------------------------------------------------------------
  
  No site vou colocar dentro da pasta files 2 exemplos de video e imagem para que consiga correr a pagina index sem 
- problemas de qualquer forma poderá fazer os testes que pretender através das paginas relarivas aos filmes.
+ problemas de qualquer forma poderá fazer os testes que pretender através das paginas relativas aos filmes.
  
- Vou tambem colocar como exemplo 2 categorias para que possa fazer os seus testes e tal como os filmes poderá 
+ Vou tambem colocar como exemplo algumas categorias para que possa fazer os seus testes e tal como os filmes poderá 
  efetuar mais operações através das paginas de categorias
  
  Cumprimentos,
